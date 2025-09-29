@@ -30,8 +30,9 @@ header{
     
 }
 .innerheader a {
-    font-size: clamp(14px, 2vw, 50px);
+    /*font-size: clamp(14px, 2vw, 50px);*/
     /*font-size: 5rem;*/
+    font-size: clamp(0px, 4vw, 25px);
     margin-right: 20px;
 }
 main{
@@ -105,3 +106,4 @@ button:hover {
     }
 
 }
+
