@@ -31,7 +31,7 @@ header{
 }
 .innerheader a {
     font-size: clamp(14px, 2vw, 50px);
-    font-size: 5rem;
+    /*font-size: 5rem;*/
     margin-right: 20px;
 }
 main{
@@ -103,4 +103,5 @@ button:hover {
         align-items: center;
         justify-content: center;        
     }
+
 }
